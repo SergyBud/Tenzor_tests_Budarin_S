@@ -1,0 +1,16 @@
+tests_one.py - 1 сценарий - Поиск в яндексе
+tests_two.py - 2 сценарий - Картинки на яндексе
+
+
+
+Полезные команды:
+
+pip install pytest
+pip install selenium
+pytest tests.py
+pytest tests.py -s
+cls - очистка терминала
+pip freeze
+
+
+
